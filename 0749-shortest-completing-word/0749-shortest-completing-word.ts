@@ -4,6 +4,7 @@ function shortestCompletingWord(licensePlate: string, words: string[]): string {
      // Function to count frequency of letters in a string
     function countFrequency(str: string): Record<string, number> {
         const frequency: Record<string, number> = {};
+
         for (const char of str) {
             frequency[char] = (frequency[char] || 0) + 1;
         }
@@ -21,9 +22,11 @@ function shortestCompletingWord(licensePlate: string, words: string[]): string {
     // Function to check if a word meets the requirements
     function isCompletingWord(word: string): boolean {
         const wordFreq = countFrequency(word);
+
         for (const [char, count] of Object.entries(plateFreq)) {
             if ((wordFreq[char] || 0) < count) return false;
         }
+        
         return true;
     }
 

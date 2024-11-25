@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->

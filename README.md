@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
+| [3636-check-balanced-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
 | ------- |

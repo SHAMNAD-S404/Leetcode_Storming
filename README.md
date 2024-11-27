@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
+| [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0693-binary-number-with-alternating-bits) |
+## Math
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->

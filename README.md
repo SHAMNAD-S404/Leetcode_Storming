@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
+## Enumeration
+|  |
+| ------- |
+| [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 <!---LeetCode Topics End-->

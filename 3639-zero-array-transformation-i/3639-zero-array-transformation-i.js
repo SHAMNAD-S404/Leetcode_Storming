@@ -4,7 +4,7 @@
  * @return {boolean}
  */
 var isZeroArray = function(nums, queries) {
-    
+
     let n = nums.length;
     let diff = new Array(n + 1).fill(0);
 
@@ -19,9 +19,11 @@ var isZeroArray = function(nums, queries) {
     }
 
     for (let i = 0; i < n; i++) {
+        
         if (i > 0) {
             diff[i] += diff[i - 1];
         }
+
         nums[i] += diff[i];
         if (nums[i] < 0) {
             nums[i] = 0; 

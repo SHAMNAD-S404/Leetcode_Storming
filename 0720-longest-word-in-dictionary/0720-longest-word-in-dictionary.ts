@@ -7,6 +7,7 @@ function longestWord(words: string[]): string {
     let result = "";
     
     for (let word of words) {
+        
         // Check if the word's prefix is in the valid set
         if (validWords.has(word.slice(0, word.length - 1))) {
             validWords.add(word); // Add the word to the valid set
@@ -16,6 +17,7 @@ function longestWord(words: string[]): string {
             }
         }
     }
+
     
     return result;
     

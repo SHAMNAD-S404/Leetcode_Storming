@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3639-zero-array-transformation-i) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->

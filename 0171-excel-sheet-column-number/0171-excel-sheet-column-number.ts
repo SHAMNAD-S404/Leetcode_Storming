@@ -7,6 +7,5 @@ function titleToNumber(columnTitle: string): number {
         const value = columnTitle.charCodeAt(i) - "A".charCodeAt(0) + 1;
         result = result * 26 + value;
     }
-
     return result;
 };

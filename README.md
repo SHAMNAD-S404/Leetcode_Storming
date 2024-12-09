@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |
 ## Geometry

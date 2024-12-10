@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3639-zero-array-transformation-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
+| [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Stack
 |  |

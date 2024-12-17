@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |

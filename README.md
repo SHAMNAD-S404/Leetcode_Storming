@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |

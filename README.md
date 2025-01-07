@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1970-sorting-the-sentence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1970-sorting-the-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3636-check-balanced-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1970-sorting-the-sentence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1970-sorting-the-sentence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |

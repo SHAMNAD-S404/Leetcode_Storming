@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [1054-complement-of-base-10-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1054-complement-of-base-10-integer) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |

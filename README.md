@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1127-last-stone-weight) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
+| [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1044-find-common-characters) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->

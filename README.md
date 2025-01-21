@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1086-divisor-game) |

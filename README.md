@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1970-sorting-the-sentence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1970-sorting-the-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1446-angle-between-hands-of-a-clock](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
 ## Geometry
 |  |
 | ------- |

@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->

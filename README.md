@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1970-sorting-the-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0693-binary-number-with-alternating-bits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1054-complement-of-base-10-integer) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Math
 |  |
@@ -88,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Enumeration
 |  |
 | ------- |

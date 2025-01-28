@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [1127-last-stone-weight](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1547-destination-city](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1547-destination-city) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1547-destination-city](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1044-find-common-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1044-find-common-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1297-maximum-number-of-balloons) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1547-destination-city](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1547-destination-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1970-sorting-the-sentence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1970-sorting-the-sentence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |

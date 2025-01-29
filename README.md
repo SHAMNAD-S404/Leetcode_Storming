@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
+| [0290-word-pattern](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |

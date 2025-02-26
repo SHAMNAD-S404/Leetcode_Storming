@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1547-destination-city](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1547-destination-city) |
+| [1580-shuffle-the-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |

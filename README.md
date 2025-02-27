@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3639-zero-array-transformation-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation

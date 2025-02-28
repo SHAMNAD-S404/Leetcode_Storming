@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2058-concatenation-of-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [1791-richest-customer-wealth](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Dynamic Programming
 |  |

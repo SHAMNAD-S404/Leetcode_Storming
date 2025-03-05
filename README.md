@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2551-apply-operations-to-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2551-apply-operations-to-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [2551-apply-operations-to-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |

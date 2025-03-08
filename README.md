@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |

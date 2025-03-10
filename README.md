@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2058-concatenation-of-array) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2480-find-subarrays-with-equal-sum) |

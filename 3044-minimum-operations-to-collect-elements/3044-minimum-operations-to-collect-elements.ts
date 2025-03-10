@@ -1,19 +1,21 @@
 function minOperations(nums: number[], k: number): number {
 
-    let operation : number = 0;
-    let collected : Set<number> = new Set();
-    const size = nums.length - 1;
+    let operations : number = 0;
+    const size = nums.length -1;
 
-    for( let i = size ; i>= 0; i-- ){
+    const find  = new Set<number>();
 
-        if(nums[i] <= k ){
-            collected.add(nums[i])
+    for(let i = size ; i>= 0; i--){
+
+        if(nums[i] <= k){
+            find.add(nums[i])
         }
-        operation++;
+        operations++;
+        if(find.size === k) break;
 
-        if(collected.size === k) break;
     }
+    return operations;
 
 
-    return operation;
+    
 };

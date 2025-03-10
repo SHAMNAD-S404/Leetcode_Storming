@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1054-complement-of-base-10-integer) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3639-zero-array-transformation-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2480-find-subarrays-with-equal-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1446-angle-between-hands-of-a-clock](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
 ## Geometry
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0605-can-place-flowers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

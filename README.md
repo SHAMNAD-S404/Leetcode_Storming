@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [0978-valid-mountain-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0978-valid-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1044-find-common-characters) |
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |

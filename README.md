@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
+| [3468-find-the-encrypted-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3468-find-the-encrypted-string) |
 | [3567-convert-date-to-binary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3636-check-balanced-string) |
 ## Bit Manipulation

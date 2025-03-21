@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1115-valid-boomerang](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1115-valid-boomerang) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2571-find-the-pivot-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2571-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |

@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |

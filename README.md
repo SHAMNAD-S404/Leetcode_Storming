@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0383-ransom-note) |

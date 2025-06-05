@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
 | [0377-combination-sum-iv](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0377-combination-sum-iv) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0035-search-insert-position) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Graph

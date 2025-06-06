@@ -12,7 +12,6 @@ function isValid(s: string): boolean {
         if(char === '(' || char === '{' || char ==='[' ){
             stack.push(char)
         } else {
-
             if (stack.length === 0 || stack.pop() !== bracketMap[char]) {
                 return false;
             }

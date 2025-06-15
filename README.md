@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |
 | [0837-most-common-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0890-lemonade-change) |
 | [0978-valid-mountain-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0978-valid-mountain-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1039-find-the-town-judge) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0890-lemonade-change) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2084-maximum-number-of-weeks-for-which-you-can-work](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2084-maximum-number-of-weeks-for-which-you-can-work) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

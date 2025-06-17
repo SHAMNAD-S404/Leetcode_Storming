@@ -1,15 +1,14 @@
 function smallerNumbersThanCurrent(nums: number[]): number[] {
     
-    const result : number[] = [];
-    const size = nums.length;
+    const sorted : number[] = [...nums].sort((a,b) => a-b );
+    const map  = new Map<number,number>();
 
-    for(let i=0; i<size; i++){
+    for(let i=0; i<sorted.length; i++ ){
 
-        let count = 0;
-        for(let j=0; j<size; j++){
-            if( nums[i] > nums[j] ) count++
+        if(!map.has(sorted[i]) ){
+            map.set(sorted[i],i)
         }
-        result.push(count)
     }
-    return result;
+
+    return nums.map((nums) => map.get(nums) );
 };

@@ -5,17 +5,18 @@
  */
 var twoSum = function(nums, target) {
 
-    let newMap = new Map()
+    const diffMap = new Map();
 
-    for(let i=0;i<nums.length;i++){
+    for (let i=0; i<nums.length; i++){
 
-        let diff = target - nums[i]
-        if(newMap.has(diff)){
-            return [i,newMap.get(diff)]
+        let diff = target - nums[i];
+
+        if(diffMap.has(diff) ){
+            return [ i,diffMap.get(diff) ]
         }
-        newMap.set(nums[i],i)
+
+        diffMap.set(nums[i],i)
     }
 
-    return 'not found'
     
 };

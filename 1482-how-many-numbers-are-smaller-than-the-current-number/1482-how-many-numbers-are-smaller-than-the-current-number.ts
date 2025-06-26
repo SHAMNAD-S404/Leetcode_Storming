@@ -4,7 +4,6 @@ function smallerNumbersThanCurrent(nums: number[]): number[] {
     const map  = new Map<number,number>();
 
     for(let i=0; i<sorted.length; i++ ){
-
         if(!map.has(sorted[i]) ){
             map.set(sorted[i],i)
         }

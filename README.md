@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2551-apply-operations-to-an-array) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2634-minimum-common-value](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2634-minimum-common-value) |
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [2551-apply-operations-to-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2551-apply-operations-to-an-array) |
+| [2634-minimum-common-value](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2634-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0035-search-insert-position) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2634-minimum-common-value](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2634-minimum-common-value) |
 ## Graph
 |  |
 | ------- |

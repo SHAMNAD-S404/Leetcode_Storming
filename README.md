@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1127-last-stone-weight](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1127-last-stone-weight) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-destination-city](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1547-destination-city) |
 | [1580-shuffle-the-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1646-kth-missing-positive-number) |

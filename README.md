@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0645-set-mismatch) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0720-longest-word-in-dictionary](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0749-shortest-completing-word) |

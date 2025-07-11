@@ -21,25 +21,22 @@ function shortestCompletingWord(licensePlate: string, words: string[]): string {
 
     // Function to check if a word meets the requirements
     function isCompletingWord(word: string): boolean {
-        const wordFreq = countFrequency(word);
 
+        const wordFreq = countFrequency(word);
         for (const [char, count] of Object.entries(plateFreq)) {
             if ((wordFreq[char] || 0) < count) return false;
         }
-        
         return true;
     }
-
     // Find the shortest completing word
     let result = "";
     for (const word of words) {
         if (
             isCompletingWord(word) &&
             (result === "" || word.length < result.length)
-        ) {
+        ){
             result = word;
         }
     }
-
     return result;
 };

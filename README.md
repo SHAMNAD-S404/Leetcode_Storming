@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2634-minimum-common-value) |
+| [2737-row-with-maximum-ones](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2737-row-with-maximum-ones) |
 | [2902-max-pair-sum-in-an-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2902-max-pair-sum-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0861-flipping-an-image](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2737-row-with-maximum-ones](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |

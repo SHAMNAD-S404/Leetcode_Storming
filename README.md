@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0217-contains-duplicate) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/0171-excel-sheet-column-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/SHAMNAD-S404/Leetcode_Storming/tree/master/1086-divisor-game) |
